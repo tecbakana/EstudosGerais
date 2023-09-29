@@ -1,0 +1,7 @@
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\bin\Debug\AplicacaoComThread.exe.config
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\bin\Debug\AplicacaoComThread.exe
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\bin\Debug\AplicacaoComThread.pdb
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\obj\Debug\AplicacaoComThread.csproj.AssemblyReference.cache
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\obj\Debug\AplicacaoComThread.csproj.CoreCompileInputs.cache
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\obj\Debug\AplicacaoComThread.exe
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\AplicacaoComThread\obj\Debug\AplicacaoComThread.pdb

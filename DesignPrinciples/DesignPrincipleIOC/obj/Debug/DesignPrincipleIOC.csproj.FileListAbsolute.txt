@@ -1,0 +1,8 @@
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.exe.config
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.exe
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.pdb
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.AssemblyReference.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.SuggestedBindingRedirects.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.CoreCompileInputs.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.exe
+D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.pdb

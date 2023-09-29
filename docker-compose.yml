@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  workerservice1:
+    image: ${DOCKER_REGISTRY-}workerservice1
+    build:
+      context: .
+      dockerfile: WorkerService1/Dockerfile

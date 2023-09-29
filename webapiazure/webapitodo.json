@@ -1,0 +1,63 @@
+{
+    "id": "/subscriptions/c2633ca5-3122-4796-9567-a704941d7917/resourceGroups/DefaultResourceGroup-CQ/providers/Microsoft.ApiManagement/service/TodoWebApi",
+    "name": "TodoWebApi",
+    "type": "Microsoft.ApiManagement/service",
+    "tags": {},
+    "location": "Brazil South",
+    "etag": "AAAAAAAOxnE=",
+    "properties": {
+        "publisherEmail": "mvozes@live.com",
+        "publisherName": "Todo",
+        "notificationSenderEmail": "apimgmt-noreply@mail.windowsazure.com",
+        "provisioningState": "Succeeded",
+        "targetProvisioningState": "",
+        "createdAtUtc": "2021-11-17T00:03:29.6066726Z",
+        "gatewayUrl": "https://todowebapi.azure-api.net",
+        "gatewayRegionalUrl": "https://todowebapi-brazilsouth-01.regional.azure-api.net",
+        "portalUrl": "https://todowebapi.portal.azure-api.net",
+        "developerPortalUrl": "https://todowebapi.developer.azure-api.net",
+        "managementApiUrl": "https://todowebapi.management.azure-api.net",
+        "scmUrl": "https://todowebapi.scm.azure-api.net",
+        "hostnameConfigurations": [
+            {
+                "type": "Proxy",
+                "hostName": "todowebapi.azure-api.net",
+                "encodedCertificate": null,
+                "keyVaultId": null,
+                "certificatePassword": null,
+                "negotiateClientCertificate": false,
+                "certificate": null,
+                "defaultSslBinding": true,
+                "identityClientId": null
+            }
+        ],
+        "publicIPAddresses": [
+            "20.201.63.229"
+        ],
+        "privateIPAddresses": null,
+        "additionalLocations": null,
+        "virtualNetworkConfiguration": null,
+        "customProperties": {
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Ciphers.TripleDes168": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Protocols.Tls11": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Protocols.Tls10": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Protocols.Ssl30": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Tls11": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Tls10": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Ssl30": "false",
+            "Microsoft.WindowsAzure.ApiManagement.Gateway.Protocols.Server.Http2": "false"
+        },
+        "virtualNetworkType": "None",
+        "certificates": null,
+        "disableGateway": false,
+        "apiVersionConstraint": {
+            "minApiVersion": null
+        }
+    },
+    "sku": {
+        "name": "Developer",
+        "capacity": 1
+    },
+    "identity": null,
+    "zones": null
+}

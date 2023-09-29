@@ -1,0 +1,6 @@
+services:
+  workerservice1:
+    build:
+      context: .
+      dockerfile: WorkerService1/Dockerfile
+    image: workerservice1

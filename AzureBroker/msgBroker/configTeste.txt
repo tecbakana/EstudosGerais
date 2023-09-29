@@ -1,0 +1,13 @@
+docker run -p 10001:10001 mcr.microsoft.com/azure-storage/azurite azurite-queue --queueHost 127.0.0.1
+
+docker run -p 10001:10001 mcr.microsoft.com/azure-storage/azurite azurite-queue --queueHost 127.0.0.1
+
+docker run -d -p 10001:10001 mcr.microsoft.com/azure-storage/azurite azurite-queue --queueHost 127.0.0.1 --queuePort 10001 --oauth basic and --cert --key Optional
+
+docker run -p 10001:10001 -v c:/azurite:/data mcr.microsoft.com/azure-storage/azurite azurite-queue --loose --queueHost 127.0.0.1 --queuePort 10001 --oauth basic and --cert --key Optional  -L 
+
+azurite -d c:/azurite/debug/debug.log
+
+az group create --account-name devstoreaccount1 --account-key Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw== --name az204-svcbus-rg --location $myLocation
+
+az group create --location $myLocation --name az204-svcbus-rg -n test --connection-string "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;QueueEndpoint=http://127.0.0.1:10001/devstoreaccount1;" 

@@ -1,0 +1,17 @@
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.csproj.AssemblyReference.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.AssemblyInfoInputs.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.AssemblyInfo.cs
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.csproj.CoreCompileInputs.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.exe
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.deps.json
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.runtimeconfig.json
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.runtimeconfig.dev.json
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\ref\InjecaoDependenciaS1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\bin\Debug\net5.0\InjecaoDependenciaS1.pdb
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\ref\InjecaoDependenciaS1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.pdb
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\InjecaoDependenciaS1.genruntimeconfig.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\InjecaoDependenciaS1\obj\Debug\net5.0\refint\InjecaoDependenciaS1.dll

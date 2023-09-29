@@ -1,0 +1,15 @@
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Developer\RepositorioEstudos\EstudosGerais\Decorator\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

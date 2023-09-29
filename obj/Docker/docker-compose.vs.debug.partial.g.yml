@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  workerservice1:
+    image: workerservice1:dev
+    container_name: WorkerService1
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WorkerService1"
+    environment:
+      - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
+    volumes:
+      - D:\Developer\RepositorioEstudos\EstudosGerais\WorkerService1:/app
+      - C:\Users\Micro\vsdbg\vs2017u5:/remote_debugger:rw
+      - C:\Users\Micro\.nuget\packages\:/root/.nuget/packages:ro
+      - C:\Program Files (x86)\Microsoft\Xamarin\NuGet\:/root/.nuget/fallbackpackages:ro
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages --additionalProbingPath /root/.nuget/fallbackpackages  \"/app/bin/Debug/net6.0/WorkerService1.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

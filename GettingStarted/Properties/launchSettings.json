@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GettingStarted": {
+      "commandName": "Project",
+      "commandLineArgs": "teste",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}

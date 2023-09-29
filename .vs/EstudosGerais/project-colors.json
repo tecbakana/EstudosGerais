@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9749351-3a7f-419d-9134-71b2b59e5f93": {
+      "ProjectGuid": "d9749351-3a7f-419d-9134-71b2b59e5f93",
+      "DisplayName": "GettingStarted",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "0f8b1ee6-ab50-46d9-9678-81bf127d7dca": {
+      "ProjectGuid": "0f8b1ee6-ab50-46d9-9678-81bf127d7dca",
+      "DisplayName": "ConsoleDependecyInjection",
+      "ColorIndex": 1
+    },
+    "d24e6ddf-4093-4903-9330-3be023175779": {
+      "ProjectGuid": "d24e6ddf-4093-4903-9330-3be023175779",
+      "DisplayName": "TempoDeVida",
+      "ColorIndex": 2
+    },
+    "fbc73c4c-bdb1-4902-85da-a72d33be7c77": {
+      "ProjectGuid": "fbc73c4c-bdb1-4902-85da-a72d33be7c77",
+      "DisplayName": "Mensageria",
+      "ColorIndex": 3
+    },
+    "a05516d0-c8cf-4aa6-9bb2-5743ef48790f": {
+      "ProjectGuid": "a05516d0-c8cf-4aa6-9bb2-5743ef48790f",
+      "DisplayName": "MessageSender",
+      "ColorIndex": 4
+    },
+    "0729bbf2-a035-487c-9b56-ef709cc3214e": {
+      "ProjectGuid": "0729bbf2-a035-487c-9b56-ef709cc3214e",
+      "DisplayName": "MessageReceiver",
+      "ColorIndex": 5
+    },
+    "f7c6fe3d-6a29-4af9-9d81-3b315f395255": {
+      "ProjectGuid": "f7c6fe3d-6a29-4af9-9d81-3b315f395255",
+      "DisplayName": "Sender",
+      "ColorIndex": 6
+    },
+    "59e10f4f-0800-423b-9716-7f66556c7ddc": {
+      "ProjectGuid": "59e10f4f-0800-423b-9716-7f66556c7ddc",
+      "DisplayName": "Receiver",
+      "ColorIndex": 7
+    },
+    "7ded34d7-5a4b-4527-9160-689d3cc0f763": {
+      "ProjectGuid": "7ded34d7-5a4b-4527-9160-689d3cc0f763",
+      "DisplayName": "TopicSender",
+      "ColorIndex": 8
+    },
+    "a0e5e8ab-5904-4133-9b97-b83b635743c3": {
+      "ProjectGuid": "a0e5e8ab-5904-4133-9b97-b83b635743c3",
+      "DisplayName": "SubscriptionReceiver",
+      "ColorIndex": 9
+    },
+    "f9866562-21dd-426e-a324-dab7d57525e5": {
+      "ProjectGuid": "f9866562-21dd-426e-a324-dab7d57525e5",
+      "DisplayName": "Decorator",
+      "ColorIndex": 10
+    },
+    "7442f3b2-0315-48b3-9500-d366cc8cb6cf": {
+      "ProjectGuid": "7442f3b2-0315-48b3-9500-d366cc8cb6cf",
+      "DisplayName": "FactorySample",
+      "ColorIndex": 11
+    },
+    "ed0d4737-ecb5-4e08-befd-631c5198897a": {
+      "ProjectGuid": "ed0d4737-ecb5-4e08-befd-631c5198897a",
+      "DisplayName": "InjecaoDependenciaS1",
+      "ColorIndex": 12
+    },
+    "2c2539d7-b981-4b03-b052-eab02d8b2f0f": {
+      "ProjectGuid": "2c2539d7-b981-4b03-b052-eab02d8b2f0f",
+      "DisplayName": "Decorator",
+      "ColorIndex": 13
+    },
+    "6974c44e-ba56-4938-9703-997797a0b178": {
+      "ProjectGuid": "6974c44e-ba56-4938-9703-997797a0b178",
+      "DisplayName": "Decorator",
+      "ColorIndex": 14
+    },
+    "84722376-013e-4a4e-81fa-c02b26ebd93f": {
+      "ProjectGuid": "84722376-013e-4a4e-81fa-c02b26ebd93f",
+      "DisplayName": "Lessons",
+      "ColorIndex": 15
+    },
+    "b15d9091-a41e-4b54-8392-84a7b27aa5c4": {
+      "ProjectGuid": "b15d9091-a41e-4b54-8392-84a7b27aa5c4",
+      "DisplayName": "SampleFunctions",
+      "ColorIndex": 0
+    },
+    "909de045-f253-4cf8-a0c3-1b6389fa5679": {
+      "ProjectGuid": "909de045-f253-4cf8-a0c3-1b6389fa5679",
+      "DisplayName": "Contratos",
+      "ColorIndex": 1
+    },
+    "da076366-830d-4dcb-9830-17bcac90ec1a": {
+      "ProjectGuid": "da076366-830d-4dcb-9830-17bcac90ec1a",
+      "DisplayName": "WorkerService1",
+      "ColorIndex": 2
+    },
+    "6a97856e-c4a0-47f9-ae60-1970863d40e1": {
+      "ProjectGuid": "6a97856e-c4a0-47f9-ae60-1970863d40e1",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 3
+    },
+    "0f3ffb8f-4c23-468c-992d-67ee67c66ba1": {
+      "ProjectGuid": "0f3ffb8f-4c23-468c-992d-67ee67c66ba1",
+      "DisplayName": "Specifications",
+      "ColorIndex": 4
+    },
+    "225825bf-ff43-4518-a85e-c947a9d83b2c": {
+      "ProjectGuid": "225825bf-ff43-4518-a85e-c947a9d83b2c",
+      "DisplayName": "RepCore",
+      "ColorIndex": 5
+    },
+    "18e75e70-a3ad-4610-a4f6-005713605126": {
+      "ProjectGuid": "18e75e70-a3ad-4610-a4f6-005713605126",
+      "DisplayName": "Repoapp",
+      "ColorIndex": 6
+    },
+    "045fde6d-f0ef-4306-a9d3-f2b7db60b3a5": {
+      "ProjectGuid": "045fde6d-f0ef-4306-a9d3-f2b7db60b3a5",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 7
+    },
+    "b8161e9c-e910-4893-bb5b-bae602a6e985": {
+      "ProjectGuid": "b8161e9c-e910-4893-bb5b-bae602a6e985",
+      "DisplayName": "DemoServices",
+      "ColorIndex": 8
+    },
+    "75579fef-8930-47dc-91a3-c1e45552351e": {
+      "ProjectGuid": "75579fef-8930-47dc-91a3-c1e45552351e",
+      "DisplayName": "APIRest_teste",
+      "ColorIndex": 9
+    },
+    "d0d6cbf6-5a40-4ed7-9221-a4c9cdf4adb6": {
+      "ProjectGuid": "d0d6cbf6-5a40-4ed7-9221-a4c9cdf4adb6",
+      "DisplayName": "CShp_Reflection",
+      "ColorIndex": 10
+    },
+    "90ff71a6-979f-4d8c-a268-4a072d1e96b4": {
+      "ProjectGuid": "90ff71a6-979f-4d8c-a268-4a072d1e96b4",
+      "DisplayName": "Reflection",
+      "ColorIndex": 11
+    },
+    "887d2c05-b3cc-429f-b991-13ceb906aca2": {
+      "ProjectGuid": "887d2c05-b3cc-429f-b991-13ceb906aca2",
+      "DisplayName": "CalculoAbatimento",
+      "ColorIndex": 12
+    },
+    "e6aba7e6-8463-48dd-9b76-471fe21ec48a": {
+      "ProjectGuid": "e6aba7e6-8463-48dd-9b76-471fe21ec48a",
+      "DisplayName": "Genericos",
+      "ColorIndex": 13
+    },
+    "39aa9b24-1579-454b-9145-1b34ec90613e": {
+      "ProjectGuid": "39aa9b24-1579-454b-9145-1b34ec90613e",
+      "DisplayName": "wAPITeste",
+      "ColorIndex": 14
+    },
+    "823e737a-3887-4efb-ba4d-feccf900e451": {
+      "ProjectGuid": "823e737a-3887-4efb-ba4d-feccf900e451",
+      "DisplayName": "APICliente",
+      "ColorIndex": 15
+    },
+    "2a097bb2-08a9-4dda-b283-c5e60c1bcb0d": {
+      "ProjectGuid": "2a097bb2-08a9-4dda-b283-c5e60c1bcb0d",
+      "DisplayName": "wTeste",
+      "ColorIndex": 0
+    },
+    "dde605f3-3c82-424c-9cee-c9178a38f084": {
+      "ProjectGuid": "dde605f3-3c82-424c-9cee-c9178a38f084",
+      "DisplayName": "React1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

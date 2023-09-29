@@ -1,0 +1,6 @@
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\bin\Debug\SafeThread.exe.config
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\bin\Debug\SafeThread.exe
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\bin\Debug\SafeThread.pdb
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\obj\Debug\SafeThread.csproj.CoreCompileInputs.cache
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\obj\Debug\SafeThread.exe
+E:\Developer\RepositorioEstudos\EstudosGerais\Thread\SafeThread\obj\Debug\SafeThread.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bg9zOQQ41Gf6Fw7H0ND8WGrJzVfLS0UqaM36wV4DHpI9XDs1yNQE+UAPs1jCUWSjOpIiiGfyNcpXTEUiSX/5ZA==",
+  "success": true,
+  "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\DapperPostgree\\DapperPostgree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvoze\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
