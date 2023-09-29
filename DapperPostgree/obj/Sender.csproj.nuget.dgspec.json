@@ -1,32 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\RepositorioEstudos\\wTeste\\wTeste.csproj": {}
+    "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\Mensageria\\Sender\\Sender\\Sender.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\RepositorioEstudos\\wTeste\\wTeste.csproj": {
+    "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\Mensageria\\Sender\\Sender\\Sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\RepositorioEstudos\\wTeste\\wTeste.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "D:\\Developer\\RepositorioEstudos\\wTeste\\wTeste.csproj",
+        "projectUniqueName": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\Mensageria\\Sender\\Sender\\Sender.csproj",
+        "projectName": "DapperPostgree",
+        "projectPath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\Mensageria\\Sender\\Sender\\Sender.csproj",
         "packagesPath": "C:\\Users\\mvoze\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\AzureQueue\\InDocker\\teste\\ConsoleApp2\\obj\\",
+        "outputPath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\DapperPostgree\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\mvoze\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,20 +39,12 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Azure.Messaging.ServiceBus": {
               "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[7.5.0, )"
             }
           },
           "imports": [
@@ -65,14 +59,11 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
