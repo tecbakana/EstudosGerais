@@ -79,8 +79,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Genericos", "Genericos", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genericos", "..\Genericos\Genericos.csproj", "{E6ABA7E6-8463-48DD-9B76-471FE21EC48A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{6A67E5BB-5122-4DC2-8E8A-18BD3BE2604C}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apirapida", "apirapida", "{B3D0DE76-6001-4424-8CED-A232BF116E01}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wAPITeste", "..\wAPITeste\wAPITeste.csproj", "{39AA9B24-1579-454B-9145-1B34EC90613E}"
@@ -123,7 +121,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiAuth", "apiAuth\apiAuth\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DapperPostGree", "DapperPostGree", "{BB83C8AB-97D0-42D6-9451-6D1D94B8BC97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperPostgree", "DapperPostgree\DapperPostgree.csproj", "{A52463D9-250F-4BB0-9710-46A3A99DDD42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperPostgree", "DapperPostgree\DapperPostgree.csproj", "{A52463D9-250F-4BB0-9710-46A3A99DDD42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
