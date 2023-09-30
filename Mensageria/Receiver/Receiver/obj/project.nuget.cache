@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rXE4hxDK7xG87Mp+MI3chLzVWDPzTTz0LJOrRWaJ4+GM2X3GX5UpWMjO2x4ULDQ+IldZs2Bs360dhWhaBkAIHA==",
+  "dgSpecHash": "WcDITxYbEzdL53OB1zvRlMYV/72IB4BatDd6O3ZZhKLBvB0p0vosPyV8ZL15Ir7EyN0Z6jQ0YsUNkAPsWX207Q==",
   "success": true,
   "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\Mensageria\\Receiver\\Receiver\\Receiver.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,11 @@
     "C:\\Users\\mvoze\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
-    "C:\\Users\\mvoze\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

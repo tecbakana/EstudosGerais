@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Yx1h55CJmAV0x2GiudLDTs22hlPcN/YqziKZ63SCoiBko22a5LYelCCDJdZMHq/dzExyF5wyuU6vMch5f+qjUA==",
+  "dgSpecHash": "+vBqeJThSVOB14bl9tM7fwKqapWIIUpOw2bF/AVI4yAjmKlP38r1qWeLQni9ayvAWjnRVP8uLQ8/x2qzgj6sEw==",
   "success": true,
   "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\ConsoleTipoGenerico\\ConsoleTipoGenerico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

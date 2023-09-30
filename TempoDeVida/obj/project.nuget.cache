@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "NoLkFHLJndHb77/ohNRRRgErodIBG4yrjno5IGmuFy7qUefDOprSo/8WEBlB7cT10PCXHDE4Vf9uFcbtBV5yyw==",
+  "dgSpecHash": "+TtATqdNuMa+FxXJ51ixiwBXbatFLvwhJ+0CxuC1n3xywoecZA97LPZI7JdQ5qnuqWq8K79vDK2QFdtXTth8dw==",
   "success": true,
   "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\TempoDeVida\\TempoDeVida.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0Q1p89G4A6QcgnWBQWnMhP2tkj+rANJ5R4TLFjc0xyk7TQ+W8oZl+d9trbWe7TSO9qPaHtTitcRg/Cij7jIRQA==",
+  "dgSpecHash": "z+6PdcmBmlQDYO4wzx7bPOExjLyYI3WzENduISVl0QUHt0y2VvGzsIJm7/MkJgkoVZaAAA8K8aqzuTnf7saIVg==",
   "success": true,
   "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\InjecaoDependenciaS1\\InjecaoDependenciaS1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
