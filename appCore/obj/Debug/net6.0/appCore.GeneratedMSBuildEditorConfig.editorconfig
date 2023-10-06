@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = T:\Developer\RepositorioEstudos\EstudosGerais\appCore
 build_property._RazorSourceGeneratorDebug = 
 
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +44,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/relUserAp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVsVXNlckFwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/relUserAp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVsVXNlckFwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/relUserAp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVsVXNlckFwXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/relUserAp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVsVXNlckFwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/relUserAp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVsVXNlckFwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [T:/Developer/RepositorioEstudos/EstudosGerais/appCore/Pages/_ViewImports.cshtml]

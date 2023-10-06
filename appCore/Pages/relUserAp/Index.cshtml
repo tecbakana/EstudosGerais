@@ -1,0 +1,50 @@
+﻿@page
+@model appCore.Pages.relUserAp.IndexModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Relusuarioaplicacao[0].Aplicacaoid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Relusuarioaplicacao[0].Usuarioid)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Relusuarioaplicacao) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aplicacaoid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuarioid)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Relacaoid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Relacaoid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Relacaoid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>

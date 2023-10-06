@@ -793,14 +793,16 @@ public partial class CmsxDbContext : DbContext
 
         modelBuilder.Entity<Relusuarioaplicacao>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("relusuarioaplicacao");
+            entity.HasKey(e => e.Relacaoid).HasName("reluserappPK");
 
-            entity.Property(e => e.Aplicacaoid).HasColumnName("aplicacaoid");
+            entity.ToTable("relusuarioaplicacao");
+
+            entity.HasIndex(e => new { e.Aplicacaoid, e.Usuarioid }, "relUserApp").IsUnique();
+
             entity.Property(e => e.Relacaoid)
                 .HasDefaultValueSql("uuid_generate_v4()")
                 .HasColumnName("relacaoid");
+            entity.Property(e => e.Aplicacaoid).HasColumnName("aplicacaoid");
             entity.Property(e => e.Usuarioid).HasColumnName("usuarioid");
         });
 
@@ -926,10 +928,13 @@ public partial class CmsxDbContext : DbContext
 
         modelBuilder.Entity<Usuario>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("usuario");
+            entity.HasKey(e => e.Userid).HasName("userPK");
 
+            entity.ToTable("usuario");
+
+            entity.Property(e => e.Userid)
+                .HasDefaultValueSql("uuid_generate_v4()")
+                .HasColumnName("userid");
             entity.Property(e => e.Apelido)
                 .HasMaxLength(6)
                 .HasColumnName("apelido");
@@ -946,9 +951,6 @@ public partial class CmsxDbContext : DbContext
             entity.Property(e => e.Sobrenome)
                 .HasMaxLength(300)
                 .HasColumnName("sobrenome");
-            entity.Property(e => e.Userid)
-                .HasDefaultValueSql("uuid_generate_v4()")
-                .HasColumnName("userid");
         });
 
         OnModelCreatingPartial(modelBuilder);

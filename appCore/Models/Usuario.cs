@@ -17,5 +17,5 @@ public partial class Usuario
 
     public DateTime? Datainclusao { get; set; }
 
-    public Guid? Userid { get; set; }
+    public Guid Userid { get; set; }
 }

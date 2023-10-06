@@ -5,7 +5,7 @@ namespace appCore.Models;
 
 public partial class Relusuarioaplicacao
 {
-    public Guid? Relacaoid { get; set; }
+    public Guid Relacaoid { get; set; }
 
     public Guid? Aplicacaoid { get; set; }
 
