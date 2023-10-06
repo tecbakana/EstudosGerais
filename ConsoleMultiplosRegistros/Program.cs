@@ -42,9 +42,9 @@ namespace ConsoleMultiplosRegistros
 
             Console.WriteLine($"Mamãe tem  {tamanho("mamae")} caracteres");
 
-            Func<string, IServiceProvider, IServico> ServiceAlocator = (srv => x => { return x == "A" ? srv.GetService<ServicoA>() : srv.GetService<ServicoB>(); });
+            //Func<string, IServiceProvider, IServico> ServiceAlocator = (srv => x => { return x == "A" ? srv.GetService<ServicoA>() : srv.GetService<ServicoB>(); });
 
-            ServiceAlocator("A",provider);
+            //("A",provider);
         }
 
 

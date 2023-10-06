@@ -14,3 +14,17 @@ D:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\r
 D:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.pdb
 D:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.genruntimeconfig.cache
 D:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\refint\Lessons.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\bin\Debug\net6.0\Lessons.exe
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\bin\Debug\net6.0\Lessons.deps.json
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\bin\Debug\net6.0\Lessons.runtimeconfig.json
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\bin\Debug\net6.0\Lessons.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\bin\Debug\net6.0\Lessons.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.AssemblyInfoInputs.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.AssemblyInfo.cs
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.csproj.CoreCompileInputs.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\refint\Lessons.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\Lessons.genruntimeconfig.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\Lessons\Lessons\obj\Debug\net6.0\ref\Lessons.dll

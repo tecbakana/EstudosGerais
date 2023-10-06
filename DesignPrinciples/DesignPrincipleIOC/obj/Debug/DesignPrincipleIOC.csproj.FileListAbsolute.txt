@@ -6,3 +6,10 @@ D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIO
 D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.CoreCompileInputs.cache
 D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.exe
 D:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.exe.config
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.exe
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\bin\Debug\DesignPrincipleIOC.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.AssemblyReference.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.csproj.CoreCompileInputs.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.exe
+T:\Developer\RepositorioEstudos\EstudosGerais\DesignPrinciples\DesignPrincipleIOC\obj\Debug\DesignPrincipleIOC.pdb

@@ -4,3 +4,9 @@ D:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.cspr
 D:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.csproj.CoreCompileInputs.cache
 D:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.dll
 D:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\bin\Debug\Contratos.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\bin\Debug\Contratos.pdb
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.csproj.AssemblyReference.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.csproj.CoreCompileInputs.cache
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.dll
+T:\Developer\RepositorioEstudos\EstudosGerais\Contratos\obj\Debug\Contratos.pdb
