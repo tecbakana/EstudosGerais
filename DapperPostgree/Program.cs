@@ -9,7 +9,7 @@ namespace DapperPostgree
 {
     public class Program
     {
-        private static string connString = "User ID=postgres;Password=su74;Host=localhost;Port=5432;Database=cmsxDB;";
+        private static string connString = "postgres://tecbakana:@ep-icy-brook-67982094.us-east-2.aws.neon.tech/CMSXDB";// User ID=postgres;Password=su74;Host=localhost;Port=5432;Database=cmsxDB;";
         public static void Main(string[] args)
         {
             CadastrarCliente(("Eldes", 42));
