@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwD6do1fnZw2c5RO0KpwE1XYnRQD7iFo6Ta4Dqu1xFdTA7NxGlugNC2q2kX0l+bmrVFiG3G9sQo1HP+0lOfGgA==",
+  "success": true,
+  "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\dockerizedNetCore\\dockerizedNetCore.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvoze\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

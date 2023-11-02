@@ -1,0 +1,31 @@
+﻿version: '3'
+services:
+    sqlserver:
+        image: mcr.microsoft.com/mssql/server:2019-latest
+        environment:
+            SA_PASSWORD: "SqlServer2019!"
+            ACCEPT_EULA: "Y"
+            MSSQL_PID: "Developer"
+        ports:
+            - "1433:1433ls"
+
+    mssqltools:
+        image: mcr.microsoft.com/mssql-tools
+        depends_on:
+            - sqlserver
+        volumes:
+            - ./lojinhaSchemaDados.sql:/tmp/lojinhaSchemaDados.sql
+            - ./init-lojinha.sh:/tmp/init-lojinha.sh
+        command: /bin/bash ./tmp/init-lojinhaa.sh
+
+    webapi:
+        image: lojaapi
+        ports:
+            - "8080:5000"
+        environment:
+            - "ASPNETCORE_ENVIRONMENT=Development"
+    
+    lojaangular:
+        image: my-app-lojinha
+        ports:
+            - "8070:80"

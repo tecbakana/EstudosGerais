@@ -10,5 +10,10 @@
     <WebStackScaffolding_DbContextTypeFullName>LojinhaAPI.Data.DataContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>T:\Developer\RepositorioEstudos\EstudosGerais\LojinhaAPI\Properties\PublishProfiles\registry.hub.docker.com_mvozes.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

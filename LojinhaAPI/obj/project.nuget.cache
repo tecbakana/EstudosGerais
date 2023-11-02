@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HyF3r8khk4SzleLkpEdcbN3kl02VKC6XSeMoPHY815O8aG990FG4eSbQ+ETnZ06xFsezqxSv9MNptTzc4p+Ogw==",
+  "dgSpecHash": "32oFi1odduZZ+PC/3sgpbLCmfJlLySkDdX8wMVLRwDns1ZEDwmYZj7Ci1Cy4GOE4Gld+9D2SiaJv9jBh+DUDHg==",
   "success": true,
   "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\LojinhaAPI\\LojinhaAPI.csproj",
   "expectedPackageFiles": [
@@ -113,6 +113,7 @@
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.16\\microsoft.visualstudio.web.codegeneration.6.0.16.nupkg.sha512",
     "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.16\\microsoft.visualstudio.web.codegeneration.core.6.0.16.nupkg.sha512",

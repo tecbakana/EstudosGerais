@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LxY+WZtdA641XyzTs5Fv4qkzg2vWXBoCOIE0aV8HvP1ifMVWydWhV5TC9fNEqoHxKi/2I2fbsWMq3i0r5yCJA==",
+  "success": true,
+  "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\dockerized\\dockerized.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kC3JDhNtFhbzvwRLD9SCjuszmPUDNxWORx+rE4JEOoM=",
+  "Source": "DemoMicroService",
+  "BasePath": "_content/DemoMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
